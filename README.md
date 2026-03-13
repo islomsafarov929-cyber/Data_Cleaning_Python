@@ -1,5 +1,4 @@
 # Data_Cleaning_Python
-I’m excited to share another project from my learning journey — Data Cleaning using Python.
 In real-world data analysis, raw datasets are rarely ready for analysis. They often contain missing values, duplicates, inconsistent formats, and noisy data that must be cleaned before meaningful insights can be generated.
 In this project, I focused on applying practical data preprocessing techniques using Python.
 • What I worked on:
